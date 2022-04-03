@@ -1,0 +1,8 @@
+1-save entered equations in matrix
+2-check if there is zero row
+3-check if there is repeated equation
+5-applay gauss elemination method 
+6-get results by simple mathematical equations 
+7-show results with entered equations 
+(check on every invaled entered value)
+ 
